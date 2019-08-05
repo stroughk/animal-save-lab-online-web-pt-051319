@@ -2,6 +2,7 @@ html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
 
+
 #bear {
   position: absolute;
   top: 100px;
@@ -9,4 +10,3 @@ html {
 }
 
 /* Write your solution here */
-
